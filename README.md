@@ -2,6 +2,8 @@
 Analysing a FitBit Fitness Tracker Data to Develop a Marketing Strategic Decisions for BellaBeat
 
 Data Source: https://www.kaggle.com/datasets/arashnic/fitbit
+
+
 In this case study, I find myself on the marketing analytics team at Bellabeat, a company specializing in health-focused products for women. Our mission is to unlock growth opportunities for the company by analyzing smart device fitness data. Under the guidance of Bellabeat's co-founder and Chief Creative Officer, Urška Sršen, I'm tasked with delving into smart device usage trends.
 
 The goal is to gain insights into how consumers utilize non-Bellabeat smart devices, with the aim of applying these findings to enhance our marketing strategy. I'm excited to contribute to Bellabeat's mission of empowering women through data-driven health and wellness solutions.
