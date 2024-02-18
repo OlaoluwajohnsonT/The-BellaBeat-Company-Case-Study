@@ -6,10 +6,9 @@ Analyzing FitBit Fitness Tracker Data to Drive Marketing Strategies for BellaBea
 # Problem Statement:
 
 Bellabeat, a health-focused company, seeks to leverage smart device fitness data for marketing insights. As an independent project, I aim to explore FitBit data to uncover usage trends and provide actionable recommendations to enhance BellaBeat's marketing strategy.
-Analysis Approach:
 
+# Analysis Approach:
 Data Source: https://www.kaggle.com/datasets/arashnic/fitbit
-
 Using FitBit Fitness Tracker Data sourced from Kaggle, I conducted thorough data exploration and analysis. Employing Python for data processing and visualization, I examined minute-level physical activity, heart rate, and sleep monitoring data. Additionally, I explored statistical techniques to derive meaningful insights.
 
 # Tools Used:
